@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: vn.edu.vtc.dal.UserDalTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in vn.edu.vtc.dal.UserDalTest
+login1(vn.edu.vtc.dal.UserDalTest)  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.AssertionError
+	at vn.edu.vtc.dal.UserDalTest.login1(UserDalTest.java:9)
+
